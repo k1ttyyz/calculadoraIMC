@@ -1,0 +1,22 @@
+body{
+    font-family: 'Concert One', cursive;
+    color: rgb(255, 230, 0);
+    background: url("https://i.pinimg.com/736x/fe/de/e3/fedee3c1301c933e6127ec5cbb7a5cdb.jpg" )  no-repeat;
+}
+
+div{
+background-color: black;
+width: 300px;
+border-radius: 10px;}
+input{
+display: block;
+border-radius: 10px;
+}
+label{
+display: block;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
+
